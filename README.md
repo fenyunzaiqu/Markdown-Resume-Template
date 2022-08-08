@@ -15,29 +15,28 @@
 
 ## 专业技能
 
-* 掌握c++,了解c#，了解java
+* 掌握c++,了解c#，了解java，了解html，了解css。
 * 掌握基础数据结构和算法的基本原理
 * CET-6 472分
 
 ## 项目经历
 
 1. 学校 - 超市管理web服务器，数据库，前端- 独立开发 - 202203- 202205 
-    * 实现
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
+    * 通过spring实现后端，vue实现前端，mysql作为数据库，mybatis连接数据库。
+    * demo演示地址，github地址：https://github.com/fenyunzaiqu/supermarket
+    https://github.com/fenyunzaiqu/supervue
 
-2. 学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
+2. 学校 - 词法语法分析器 - 202110- 202111
+    * 将代码转换成词法分析表，语法分析表
+    * c++
+    * https://github.com/fenyunzaiqu/Compiler
+    
+3. 学校 - unity3d课设 - 202105-202106
+    * 实现了最基础的人物移动，摄像机移动所动，攻击翻滚跳跃等功能
+    * 见附件
 
 ## 获奖经历
-* XXX 优秀新人
+* 2021奖学金
 
-## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
 
 
